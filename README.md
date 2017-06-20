@@ -1,6 +1,12 @@
 # raw_data
 Raw data for practice data analysis 
 
+
+图片测试
+下面是储存在七牛上的图片：
+
+![图片](http://ortxpw68f.bkt.clouddn.com/test_pic.jpg)
+
 数据文件说
 
 | File name| description|reference|
