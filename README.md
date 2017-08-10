@@ -5,11 +5,11 @@
 
 | File name| description|reference|
 | ------------- |:-------------:| -------------:| 
-| data_szq_201|成年女子的红细胞数| 例2-1|
-| data_szq_306|t检验：两种脂肪含量测定方法的比较       |   例3-6|
-| data_szq_307|t检验：两种药物的降血糖效应比较|例3-7  
-| data_szq_402|ANOVA：三种降脂药物的比较|例4-2
-| data_szq_1901|生存分析：用于学习生存分析的术语    |例19-1   
+| data_szq_201|数据描述| 例2-1|
+| data_szq_306|t检验|   例3-6|
+| data_szq_307|t检验|例3-7  
+| data_szq_402|ANOVA|例4-2
+| data_szq_1901|生存分析|例19-1   
 | data_szq_404|ANOVA|例4-4
 | data_szq_406|ANOVA|例4-6 
 | data_anova_01|ANOVA|王炳顺. 医学统计学及SAS应用[M]. 上海交通大学出版社, 2007.例5.1  
