@@ -1,4 +1,4 @@
-﻿gpl, title, organism, bioc_package
+gpl, title, organism, bioc_package
 GPL32, [MG_U74A] Affymetrix Murine Genome U74A Array, Mus musculus, mgu74a
 GPL33, [MG_U74B] Affymetrix Murine Genome U74B Array, Mus musculus, mgu74b
 GPL34, [MG_U74C] Affymetrix Murine Genome U74C Array, Mus musculus, mgu74c
